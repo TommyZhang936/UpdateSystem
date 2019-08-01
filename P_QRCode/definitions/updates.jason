@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.1",
-      "download-url": "https://gitee.com/tommyzhang936/GitDemo/tree/master/download/YesItWorks.jpg",
+      "download-url": "https://github.com/TommyZhang936/UpdateSystem/tree/master/P_QRCode/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     }
